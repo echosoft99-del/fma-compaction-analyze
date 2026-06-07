@@ -1,5 +1,8 @@
-streamlit>=1.30
-requests>=2.31
-pandas>=2.0
-plotly>=5.18
-streamlit-js-eval>=0.1.7
+streamlit
+pandas
+numpy
+plotly
+requests
+reportlab
+openpyxl
+streamlit-js-eval
